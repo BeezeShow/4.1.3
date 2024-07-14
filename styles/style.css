@@ -56,6 +56,10 @@ a {
   align-items: center;
   
 }
+.left-menu-nav__items:hover{
+  color: #7E7E82;
+
+}
 .left-menu-nav__items:hover:before{
   content: "";
   width: 4px;
@@ -64,6 +68,8 @@ a {
   border-radius: 2.5px;
   position: absolute;
   left: 0;
+ 
+
 
 
 
